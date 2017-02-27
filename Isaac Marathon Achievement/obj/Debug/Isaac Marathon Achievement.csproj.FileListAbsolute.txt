@@ -1,0 +1,9 @@
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac Marathon Achievement.csprojResolveAssemblyReference.cache
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac Marathon Achievement.csproj.GenerateResource.Cache
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\bin\Debug\Isaac Achievement Unlocker.exe.config
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\bin\Debug\Isaac Achievement Unlocker.exe
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\bin\Debug\Isaac Achievement Unlocker.pdb
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac_Achievement_Unlocker.MainForm.resources
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac_Achievement_Unlocker.Properties.Resources.resources
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac Achievement Unlocker.exe
+c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac Achievement Unlocker.pdb
