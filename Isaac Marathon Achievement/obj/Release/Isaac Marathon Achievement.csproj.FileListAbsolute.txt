@@ -1,0 +1,8 @@
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\bin\Release\Isaac Achievement Unlocker.exe.config
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\bin\Release\Isaac Achievement Unlocker.exe
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\bin\Release\Isaac Achievement Unlocker.pdb
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Release\Isaac_Achievement_Unlocker.MainForm.resources
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Release\Isaac_Achievement_Unlocker.Properties.Resources.resources
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Release\Isaac Marathon Achievement.csproj.GenerateResource.Cache
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Release\Isaac Achievement Unlocker.exe
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Release\Isaac Achievement Unlocker.pdb

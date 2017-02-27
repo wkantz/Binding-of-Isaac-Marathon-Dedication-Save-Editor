@@ -24,7 +24,7 @@ namespace Isaac_Achievement_Unlocker
                 stream.Position = 0x165; //Dedication
                 if (stream.ReadByte() == 1)
                 {
-                    Console.WriteLine("Dedication Completed!");
+                    //Console.WriteLine("Dedication Completed!");
                     Achievements.Add("Dedication", true);
                 }
                 else

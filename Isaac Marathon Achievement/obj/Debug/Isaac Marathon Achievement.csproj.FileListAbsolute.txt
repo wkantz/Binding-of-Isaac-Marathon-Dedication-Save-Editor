@@ -7,3 +7,12 @@ c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\I
 c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac_Achievement_Unlocker.Properties.Resources.resources
 c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac Achievement Unlocker.exe
 c:\users\ziak\documents\visual studio 2015\Projects\Isaac Marathon Achievement\Isaac Marathon Achievement\obj\Debug\Isaac Achievement Unlocker.pdb
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\bin\Debug\Isaac Achievement Unlocker.exe.config
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Debug\Isaac Achievement Unlocker.exe
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Debug\Isaac Achievement Unlocker.pdb
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\bin\Debug\Isaac Achievement Unlocker.exe
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\bin\Debug\Isaac Achievement Unlocker.pdb
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Debug\Isaac Marathon Achievement.csprojResolveAssemblyReference.cache
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Debug\Isaac_Achievement_Unlocker.MainForm.resources
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Debug\Isaac_Achievement_Unlocker.Properties.Resources.resources
+C:\Users\Ziak\Documents\visual studio 2015\Projects\Isaac Marathon Achievement\Binding-of-Isaac-Marathon-Dedication-Save-Editor\Isaac Marathon Achievement\obj\Debug\Isaac Marathon Achievement.csproj.GenerateResource.Cache
